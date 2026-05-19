@@ -1,6 +1,8 @@
 # Open Source Reading Notes
 
-这个仓库记录我对高质量开源项目的阅读路线、工程观察和可复用实践。开源项目所有权归原作者/组织；这里的重点是训练自己读懂真实工程、拆解设计取舍，并把观察转化为自己的项目改进。
+这个仓库记录我阅读开源项目时的路线和问题清单。开源项目所有权归原作者/组织；这里的重点是把具体模块的观察沉淀成可复盘笔记，并逐步应用到自己的项目改进中。
+
+> Portfolio role: this repository is learning evidence and reading methodology, not a claim of ownership or contribution to the listed projects.
 
 ## Reading Map
 
@@ -13,6 +15,11 @@
 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | Python API framework | OpenAPI、数据校验、异步接口、自动文档、错误处理 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Language tooling | 类型推导、编译器结构、语言服务、工程化约束 |
 | [prisma/prisma](https://github.com/prisma/prisma) | Database tooling | Schema 设计、类型安全查询、迁移流程、Node.js 数据访问层 |
+
+## Notes
+
+- [FastAPI: API contract and validation reading note](notes/fastapi-api-contract.md)
+- [Element Plus: component API reading note](notes/element-plus-component-api.md)
 
 ## Current Questions
 
