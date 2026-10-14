@@ -16,6 +16,10 @@
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Language tooling | 类型推导、编译器结构、语言服务、工程化约束 |
 | [prisma/prisma](https://github.com/prisma/prisma) | Database tooling | Schema 设计、类型安全查询、迁移流程、Node.js 数据访问层 |
 
+## ML / LLM Research Contribution Notes
+
+- [Math-Verify #76: Markdown-bold answer extraction](notes/math-verify-issue76/README.md) — independent root-cause analysis, patch candidate and proposed regression cases; **not yet submitted or accepted upstream**.
+
 ## Notes
 
 - [FastAPI: API contract and validation reading note](notes/fastapi-api-contract.md)
